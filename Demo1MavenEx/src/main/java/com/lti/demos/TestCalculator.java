@@ -8,7 +8,7 @@ public class TestCalculator {
 		System.out.println("addition is :"+r);
 	    int x=c.subNos(500, 200);
 	    System.out.println("substractrion is:"+x);
-	    System.out.println("hellooo");
+	    System.out.println("helloo");
 	}
 	
 
